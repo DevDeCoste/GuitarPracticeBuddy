@@ -1,4 +1,4 @@
-package com.guitar.GuitarPracticeBuddy.Controllers;
+package com.guitar.GuitarPracticeBuddy.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
